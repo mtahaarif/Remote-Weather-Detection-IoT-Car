@@ -9,7 +9,7 @@ The car is driven remotely over its own Wi-Fi access point via a browser-based c
 
 A demo video of the finished build in action is included in the repository: [`project video.mp4`](project%20video.mp4).
 
----
+--
 
 ## Table of Contents
 
