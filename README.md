@@ -7,7 +7,7 @@ The car is driven remotely over its own Wi-Fi access point via a browser-based c
 
 ![Assembled car and weather station](IoT%20Project.jpeg)
 
-A demo video of the finished build in action is included in the repository: [`project video.mp4`](project%20video.mp4). Full build notes, wiring instructions, and photos are compiled in [`IoT Project Report.docx`](IoT%20Project%20Report.docx).
+A demo video of the finished build in action is included in the repository: [`project video.mp4`](project%20video.mp4).
 
 ---
 
