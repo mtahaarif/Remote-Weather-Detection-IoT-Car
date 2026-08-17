@@ -132,7 +132,7 @@ motorPins = {
 - L298N `IN1`–`IN4` → ESP32-CAM GPIOs as above
 - L298N `VCC`/`GND` → ESP32-CAM `5V`/`GND`
 - Drive battery `+`/`−` → L298N `VCC`/`GND`
-
+![Connections](connections.png)
 ### ESP32-CAM (AI-Thinker) Camera Pins
 ```cpp
 PWDN = 32, RESET = -1, XCLK = 0, SIOD = 26, SIOC = 27,
