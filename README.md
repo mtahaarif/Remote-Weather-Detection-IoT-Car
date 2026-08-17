@@ -1,4 +1,4 @@
-# Remote Weather Detection Car
+# Remote Weather Detection IoT Car
 
 An IoT project combining a **Wi-Fi-controlled robotic car** with an onboard **long-range weather station**.
 
