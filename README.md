@@ -286,9 +286,6 @@ No app installation is required — any modern mobile or desktop browser connect
 ```
 Remote-Weather-Detection-IoT-Car/
 ├── README.md                    ← you are here
-├── IoT Project Report.docx      Full academic report: abstract, component list,
-│                                 wiring diagrams, complete ESP32-CAM car firmware
-│                                 listing, and build photos
 ├── IoT Project.jpeg             Photo of the fully assembled car + weather station
 ├── project video.mp4            Demo video of the finished build in operation
 ├── sender_code.ino              Weather station firmware (Arduino UNO)
@@ -337,6 +334,7 @@ Absolute Pressure: 887.43 mb, 26.21 inHg
 Relative Pressure: 1083.85 mb, 32.01 inHg
 Computed Altitude: 1655 meters, 5430 feet
 ```
+![Output](iot-output.png)
 
 ## Known Issues & Limitations
 
