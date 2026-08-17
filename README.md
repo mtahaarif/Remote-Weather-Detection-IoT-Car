@@ -356,7 +356,3 @@ Computed Altitude: 1655 meters, 5430 feet
 - Move Wi-Fi credentials to a build-time config (e.g. `secrets.h`, excluded via `.gitignore`) instead of hard-coding them in source.
 - Log receiver-side weather data (e.g. to SD card or over serial to a PC script) for later analysis instead of only printing to Serial Monitor.
 - Add a `platformio.ini` / library manifest so dependencies can be installed automatically rather than manually via the Arduino Library Manager.
-
-## Credits
-
-Developed by **Muhammad Taha**, **Talha Arshad**, and **Bazil Bin Aamir** for the *Introduction to IoT* course, Department of Computer & Software Engineering, College of E&ME, NUST, Rawalpindi, under the supervision of **Prof. Ali Hassan** (Fall 2023).
