@@ -25,8 +25,6 @@ A demo video of the finished build in action is included in the repository: [`pr
 10. [Sample Output](#sample-output)
 11. [Known Issues & Limitations](#known-issues--limitations)
 12. [Possible Improvements](#possible-improvements)
-13. [Credits](#credits)
-
 ---
 
 ## System Overview
