@@ -1,16 +1,9 @@
 # Remote Weather Detection Car
 
-An IoT project combining a **Wi-Fi-controlled robotic car** with an onboard **long-range weather station**, built for the *Introduction to IoT* course at the College of Electrical & Mechanical Engineering (E&ME), NUST, Rawalpindi.
+An IoT project combining a **Wi-Fi-controlled robotic car** with an onboard **long-range weather station**.
 
 The car is driven remotely over its own Wi-Fi access point via a browser-based control panel with a live camera feed, while a companion sensor module mounted on the chassis continuously measures environmental conditions (temperature, humidity, heat index, light level) and transmits them over a long-range **LoRa (433 MHz)** radio link to a separate base-station receiver — independent of the Wi-Fi connection, and usable from much farther away.
 
-| | |
-|---|---|
-| **Course** | Introduction to IoT |
-| **Department** | Computer & Software Engineering, College of E&ME, NUST |
-| **Instructor** | Prof. Ali Hassan |
-| **Team** | Muhammad Taha (417609) · Talha Arshad (410179) · Bazil Bin Aamir (432243) |
-| **Submitted** | 29 Dec 2023 |
 
 ![Assembled car and weather station](IoT%20Project.jpeg)
 
